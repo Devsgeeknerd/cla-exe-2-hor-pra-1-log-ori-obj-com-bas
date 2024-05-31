@@ -6,4 +6,8 @@ public class Dentista {
     private String especialidade;
     private String inscricaoCRO;
     private boolean estado;
+
+    public String getNome(){
+        return nome;
+    }
 }
