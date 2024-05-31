@@ -1,3 +1,5 @@
 package br.com.devsgeeknerd.com.consultorio;
 
-public class Dentista{}
+public class Dentista {
+    private String nome;
+}
