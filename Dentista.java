@@ -35,4 +35,8 @@ public class Dentista {
         return inscricaoCRO;
     }
 
+    public void setInscricaoCRO(String inscricaoCRO) {
+        this.inscricaoCRO = inscricaoCRO;
+    }
+
 }
