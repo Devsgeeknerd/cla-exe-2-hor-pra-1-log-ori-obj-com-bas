@@ -55,4 +55,12 @@ public class Dentista {
         this.estado = estado;
     }
 
+    public void atenderPaciente() {
+        if (estado) {
+            System.out.println(nome + " " + sobrenome + " está atendendo um paciente.");
+        } else {
+            System.out.println(nome + " " + sobrenome + " não está ativo para atender pacientes.");
+        }
+    }
+
 }
