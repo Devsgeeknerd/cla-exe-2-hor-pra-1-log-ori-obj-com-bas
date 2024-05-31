@@ -47,7 +47,7 @@ public class Dentista {
         this.estado = estado;
     }
 
-    public Dentista(String nome) {
+    public Dentista(String nome, String sobrenome) {
     }
 
 }
