@@ -9,7 +9,9 @@ Agora é necessário que o diagrama **UML** criado no `exercício 1` seja codifi
 
 É importante que os atributos sejam encapsulados.
 
-[Solução.](Dentista.java)
+Resolução:
+
+1. [Dentista.](Dentista.java)
 
 <!-- Informações -->
 ## &#8505; Informações
