@@ -79,4 +79,12 @@ public class Dentista {
         }
     }
 
+    public void cancelarConsulta() {
+        if (estado) {
+            System.out.println("Consulta cancelada com " + nome + " " + sobrenome + ".");
+        } else {
+            System.out.println(nome + " " + sobrenome + " não está ativo para cancelar consultas.");
+        }
+    }
+
 }
