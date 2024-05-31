@@ -43,4 +43,8 @@ public class Dentista {
         return estado;
     }
 
+    public void setEstado(boolean estado) {
+        this.estado = estado;
+    }
+
 }
