@@ -39,4 +39,8 @@ public class Dentista {
         this.inscricaoCRO = inscricaoCRO;
     }
 
+    public boolean isEstado() {
+        return estado;
+    }
+
 }
