@@ -18,4 +18,8 @@ public class Dentista {
     public String getSobrenome() {
         return sobrenome;
     }
+
+    public void setSobrenome(String sobrenome) {
+        this.sobrenome = sobrenome;
+    }
 }
