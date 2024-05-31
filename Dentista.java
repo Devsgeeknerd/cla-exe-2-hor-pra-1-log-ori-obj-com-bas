@@ -22,4 +22,9 @@ public class Dentista {
     public void setSobrenome(String sobrenome) {
         this.sobrenome = sobrenome;
     }
+
+    public String getEspecialidade() {
+        return especialidade;
+    }
+
 }
