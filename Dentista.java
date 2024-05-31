@@ -47,4 +47,7 @@ public class Dentista {
         this.estado = estado;
     }
 
+    public Dentista() {
+    }
+
 }
