@@ -14,4 +14,8 @@ public class Dentista {
     public void setNome(String nome) {
         this.nome = nome;
     }
+
+    public String getSobrenome() {
+        return sobrenome;
+    }
 }
