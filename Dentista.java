@@ -31,4 +31,8 @@ public class Dentista {
         this.especialidade = especialidade;
     }
 
+    public String getInscricaoCRO() {
+        return inscricaoCRO;
+    }
+
 }
